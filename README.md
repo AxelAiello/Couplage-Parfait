@@ -1,4 +1,6 @@
-﻿Le projet utilise notamment le compilateur g++, il faut donc l'avoir à jour.
+# Couplage-Parfait
+
+Le projet utilise notamment le compilateur g++, il faut donc l'avoir à jour.
 
 Un graphe contient plusieurs nœuds, reliés entre eux par des liens. Dans ce projet nous souhaitons déterminer le pourcentage de couplage parfait en fonction de la probabilité d’avoir un lien entre un nœud A et un nœud B.
 
